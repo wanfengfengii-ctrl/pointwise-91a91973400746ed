@@ -5,12 +5,11 @@
   "verify": [
     "python3",
     "checks.py",
-    "normal"
+    "verify"
   ],
   "demo": [
     "python3",
     "checks.py",
-    "benchmark",
-    "5000"
+    "demo"
   ]
 }
